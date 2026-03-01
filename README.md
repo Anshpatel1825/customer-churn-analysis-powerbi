@@ -124,3 +124,13 @@ The dashboard tracks:
 ![Dashboard](https://github.com/Anshpatel1825/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-03-01%20111044.png?raw=true)
 
 ---
+## 👨‍💻 Author
+
+**Ansh Patel**  
+Aspiring Data Analyst  
+
+---
+
+## ⭐ Resume Summary
+
+Built an interactive Customer Churn Analysis Dashboard analyzing 7,043 telecom customers, engineered KPIs and customer value metrics, and identified key churn drivers to support data-driven retention strategies.
