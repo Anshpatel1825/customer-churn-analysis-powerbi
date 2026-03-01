@@ -121,6 +121,6 @@ The dashboard tracks:
 
 ## 📷 Dashboard Preview
 
-![Dashboard]("Screenshot 2026-03-01 111044.png")
+![Dashboard](Screenshot 2026-03-01 111044.png)
 
 ---
