@@ -121,6 +121,6 @@ The dashboard tracks:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshot 2026-03-01 111044.png)
+![Dashboard](https://github.com/Anshpatel1825/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-03-01%20111044.png?raw=true)
 
 ---
